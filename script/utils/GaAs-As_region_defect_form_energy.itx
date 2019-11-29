@@ -1,0 +1,33 @@
+IGOR
+WAVES/D Vac_Ga_x Vac_Ga_y
+BEGIN
+-100.000000 1.965278
+0.255027 1.965278
+0.566632 1.653674
+0.859425 1.068087
+100.000000 -296.353637
+END
+X Display Vac_Ga_y vs Vac_Ga_x
+X ModifyGraph mode=4
+X ModifyGraph marker=19,msize=5,mrkThick=2
+X ModifyGraph width=340.157,height=226.772
+X ModifyGraph tick=2,btLen=8,btThick=2
+X ModifyGraph tick(left)=2
+X ModifyGraph lsize=2
+X ModifyGraph rgb=(0,0,65535)
+X ModifyGraph mirror=1
+X ModifyGraph nticks(left)=3
+X ModifyGraph fSize=28
+X ModifyGraph lblMargin=15
+X ModifyGraph standoff=0
+X ModifyGraph axisOnTop=1
+X ModifyGraph axThick=2
+X ModifyGraph gFont="Times New Roman"
+X ModifyGraph gfSize=24
+X ModifyGraph zero(bottom)=8,zeroThick(bottom)=2
+X ModifyGraph noLabel=0
+X ModifyGraph grid(bottom)=0,gridHair(bottom)=0,gridStyle(bottom)=5,gridRGB(bottom)=(0,0,0)
+X Label bottom "Fermi Energy (eV)"
+X Label left "Defect formation energy(eV)"
+X SetAxis left 0,5
+X SetAxis bottom 0,4

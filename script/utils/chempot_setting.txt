@@ -1,0 +1,14 @@
+# entryid composition energy correction functional pot_type run_type pot_label
+# recommends to run with same directory in script
+# first line = target bulk structrue
+# from next line = computed entry
+# For example,
+# GaAs 
+# As2 -9.3161 0.0000
+# Ga4 -12.1489 0.0000
+# GaAs -8.3898 0.0000
+#
+GaAs
+As2 -9.34642014 0.0000
+Ga4 -11.62259336 0.0000
+GaAs -8.27525478 0.0000
